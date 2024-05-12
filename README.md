@@ -13,10 +13,10 @@ Power BI
 - Natural Language Processing and Classification
 
 ### Education
-Data Science, Certificate @ Explore AI through ALX SA - Current
-Business Administration, Degree @ UNISA - Current
-Banking Services Advice, Certificate @ Milpark Education - 2013
-Grade 12, Certificate @ Hoerskool Wonderfontein - 2009
+- Data Science, Certificate @ Explore AI through ALX SA - Current
+- Business Administration, Degree @ UNISA - Current
+- Banking Services Advice, Certificate @ Milpark Education - 2013
+- Grade 12, Certificate @ Hoerskool Wonderfontein - 2009
 
 ### Work Experience
 Universal Banker @ Standard Bank - 2021 to 2023
@@ -32,9 +32,9 @@ Financial Planner @ Nedbank - 2017
 - Wealth and Estate Planning, and Financial Advisory
 
 Various Roles @ Absa Bank 2010 - 2016
-Teller 
-Sales and Service consulatant
-Collections Consultant (early and late stage)
-Email Administator
+- Teller 
+- Sales and Service consulatant
+- Collections Consultant (early and late stage)
+- Email Administator
 
 ### Projects
