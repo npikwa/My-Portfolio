@@ -4,9 +4,9 @@
 Hope Pikwa is a dedicated and ambitious individual currently pursuing her studies in Data Science at ALX South Africa. With a strong passion for data analysis and problem-solving, Nolizwi aspires to become a proficient data scientist, leveraging her skills to make a significant impact in the field. Prior to her pursuit of data science, Nolizwi had an impressive career as a qualified financial adviser, accumulating over 12 years of experience in the banking sector
 
 ### Skills
--Python
--SQL
--Power BI 
+- Python
+- SQL
+- Power BI 
 
 - Data Visualization and Storytelling
 - Preparing Data
